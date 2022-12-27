@@ -18,8 +18,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c1ff3221ad6e498e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "general_architecture.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 98.57999999999996,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "roadmap.md",
+                "file": "general_architecture.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "roadmap.md",
+                "file": "general_architecture.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "roadmap.md"
+                "file": "general_architecture.canvas"
               }
             }
           }
@@ -146,6 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6c73db5f5e0d6bb",
-  "lastOpenFiles": []
+  "active": "eef3ecf6712f334f",
+  "lastOpenFiles": [
+    "general architecture.md",
+    "roadmap.md"
+  ]
 }
